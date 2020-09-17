@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "rtfeldman/elm-css",
+    "name": "proda-ai/elm-css",
     "summary": "Typed CSS in Elm.",
     "license": "BSD-3-Clause",
-    "version": "16.0.2",
+    "version": "1.0.0",
     "exposed-modules": {
         "Styling": [
             "Css",
