@@ -1,5 +1,7 @@
 # elm-css
 
+This is a temporary fork of [rtfeldman/elm-css](https://github.com/rtfeldman/elm-css) this is required as the current package has dependency naming issues.
+
 `elm-css` lets you define CSS in Elm. (For an Elm styling system that is a
 complete departure from CSS, check out [Elm-UI](https://github.com/mdgriffith/elm-ui).)
 
